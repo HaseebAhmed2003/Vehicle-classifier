@@ -74,13 +74,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 You can try out the vehicle classifier model in the Hugging Face Space embedded below:
 
-[![Vehicle Classifier Demo](https://huggingface.co/spaces/Abdul-Haseeb/Vehicle-Classifier/badge.svg)](https://huggingface.co/spaces/Abdul-Haseeb/Vehicle-Classifier)
-
-<html>
-<iframe
-  src="https://huggingface.co/spaces/Abdul-Haseeb/Vehicle-Classifier"
-  width="100%"
-  height="500px"
-  frameborder="0"
-></iframe>
-</html>
+[Vehicle Classifier Demo](https://huggingface.co/spaces/Abdul-Haseeb/Vehicle-Classifier)
