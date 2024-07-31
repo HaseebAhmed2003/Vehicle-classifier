@@ -76,9 +76,11 @@ You can try out the vehicle classifier model in the Hugging Face Space embedded 
 
 [![Vehicle Classifier Demo](https://huggingface.co/spaces/Abdul-Haseeb/Vehicle-Classifier/badge.svg)](https://huggingface.co/spaces/Abdul-Haseeb/Vehicle-Classifier)
 
+<html>
 <iframe
   src="https://huggingface.co/spaces/Abdul-Haseeb/Vehicle-Classifier"
   width="100%"
   height="500px"
   frameborder="0"
 ></iframe>
+</html>
